@@ -1,0 +1,17 @@
+$main-title: 'ATRotisSemiSans-ExtraBold', sans-serif;
+$sub-title: 'ATRotisSemiSans-Light', sans-serif;
+$dark-blue: #040dbf;
+$light-blue: #01f2f2;
+$gold: #f2df79;
+$orange: #F37406;
+$bg-color: #3A53BA;
+$dark-bg-color: #112A4C;
+
+:root {
+    --dark-blue: #{$dark-blue};
+    --light-blue: #{$light-blue};
+    --gold: #{$gold};
+    --orange: #{$orange};
+    --bg-color: #{$bg-color};
+    --dark-bg-color: #{$dark-bg-color};
+  }

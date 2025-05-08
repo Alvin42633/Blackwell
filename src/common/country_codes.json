@@ -1,0 +1,1610 @@
+[
+    {
+    "label": "Malaysia (+60)",
+    "fullname": "Malaysia",
+    "value": "60",
+    "code": "MY",
+    "key": "MY",
+    "currency": "MYR"
+    },
+    {
+    "label": "Afghanistan (+93)",
+    "fullname": "Afghanistan",
+    "value": "93",
+    "code": "AF",
+    "key": "AF",
+    "currency": "AFN"
+    },
+    {
+    "label": "Albania (+355)",
+    "fullname": "Albania",
+    "value": "355",
+    "code": "AL",
+    "key": "AL",
+    "currency": "ALL"
+    },
+    {
+    "label": "Algeria (+213)",
+    "fullname": "Algeria",
+    "value": "213",
+    "code": "DZ",
+    "key": "DZ",
+    "currency": "DZD"
+    },
+    {
+    "label": "Andorra (+376)",
+    "fullname": "Andorra",
+    "value": "376",
+    "code": "AD",
+    "key": "AD",
+    "currency": "EUR"
+    },
+    {
+    "label": "Angola (+244)",
+    "fullname": "Angola",
+    "value": "244",
+    "code": "AO",
+    "key": "AO",
+    "currency": "AOA"
+    },
+    {
+    "label": "Anguilla (+1264)",
+    "fullname": "Anguilla",
+    "value": "1264",
+    "code": "AI",
+    "key": "AI",
+    "currency": "XCD"
+    },
+    {
+    "label": "Antarctica (+672)",
+    "fullname": "Antarctica",
+    "value": "672",
+    "code": "AQ",
+    "key": "AQ",
+    "currency": ""
+    },
+    {
+    "label": "Antigua and Barbuda (+1268)",
+    "fullname": "Antigua and Barbuda",
+    "value": "1268",
+    "code": "AG",
+    "key": "AG",
+    "currency": "XCD"
+    },
+    {
+    "label": "Argentina (+54)",
+    "fullname": "Argentina",
+    "value": "54",
+    "code": "AR",
+    "key": "AR",
+    "currency": "ARS"
+    },
+    {
+    "label": "Armenia (+374)",
+    "fullname": "Armenia",
+    "value": "374",
+    "code": "AM",
+    "key": "AM",
+    "currency": "AMD"
+    },
+    {
+    "label": "Aruba (+297)",
+    "fullname": "Aruba",
+    "value": "297",
+    "code": "AW",
+    "key": "AW",
+    "currency": "AWG"
+    },
+    {
+    "label": "Australia (+61)",
+    "fullname": "Australia",
+    "value": "61",
+    "code": "AU",
+    "key": "AU",
+    "currency": "AUD"
+    },
+    {
+    "label": "Austria (+43)",
+    "fullname": "Austria",
+    "value": "43",
+    "code": "AT",
+    "key": "AT",
+    "currency": "EUR"
+    },
+    {
+    "label": "Azerbaijan (+994)",
+    "fullname": "Azerbaijan",
+    "value": "994",
+    "code": "AZ",
+    "key": "AZ",
+    "currency": "AZN"
+    },
+    {
+    "label": "Bahamas (+1242)",
+    "fullname": "Bahamas",
+    "value": "1242",
+    "code": "BS",
+    "key": "BS",
+    "currency": "BSD"
+    },
+    {
+    "label": "Bahrain (+973)",
+    "fullname": "Bahrain",
+    "value": "973",
+    "code": "BH",
+    "key": "BH",
+    "currency": "BHD"
+    },
+    {
+    "label": "Bangladesh (+880)",
+    "fullname": "Bangladesh",
+    "value": "880",
+    "code": "BD",
+    "key": "BD",
+    "currency": "BDT"
+    },
+    {
+    "label": "Barbados (+1246)",
+    "fullname": "Barbados",
+    "value": "1246",
+    "code": "BB",
+    "key": "BB",
+    "currency": "BBD"
+    },
+    {
+    "label": "Belarus (+375)",
+    "fullname": "Belarus",
+    "value": "375",
+    "code": "BY",
+    "key": "BY",
+    "currency": "BYR"
+    },
+    {
+    "label": "Belgium (+32)",
+    "fullname": "Belgium",
+    "value": "32",
+    "code": "BE",
+    "key": "BE",
+    "currency": "EUR"
+    },
+    {
+    "label": "Belize (+501)",
+    "fullname": "Belize",
+    "value": "501",
+    "code": "BZ",
+    "key": "BZ",
+    "currency": "BZD"
+    },
+    {
+    "label": "Benin (+229)",
+    "fullname": "Benin",
+    "value": "229",
+    "code": "BJ",
+    "key": "BJ",
+    "currency": "XOF"
+    },
+    {
+    "label": "Bermuda (+1441)",
+    "fullname": "Bermuda",
+    "value": "1441",
+    "code": "BM",
+    "key": "BM",
+    "currency": "BMD"
+    },
+    {
+    "label": "Bhutan (+975)",
+    "fullname": "Bhutan",
+    "value": "975",
+    "code": "BT",
+    "key": "BT",
+    "currency": "BTN"
+    },
+    {
+    "label": "Bosnia and Herzegovina (+387)",
+    "fullname": "Bosnia and Herzegovina",
+    "value": "387",
+    "code": "BA",
+    "key": "BA",
+    "currency": "BAM"
+    },
+    {
+    "label": "Botswana (+267)",
+    "fullname": "Botswana",
+    "value": "267",
+    "code": "BW",
+    "key": "BW",
+    "currency": "BWP"
+    },
+    {
+    "label": "Brazil (+55)",
+    "fullname": "Brazil",
+    "value": "55",
+    "code": "BR",
+    "key": "BR",
+    "currency": "BRL"
+    },
+    {
+    "label": "British Indian Ocean Territory (+246)",
+    "fullname": "British Indian Ocean Territory",
+    "value": "246",
+    "code": "IO",
+    "key": "IO",
+    "currency": "USD"
+    },
+    {
+    "label": "Bulgaria (+359)",
+    "fullname": "Bulgaria",
+    "value": "359",
+    "code": "BG",
+    "key": "BG",
+    "currency": "BGN"
+    },
+    {
+    "label": "Burkina Faso (+226)",
+    "fullname": "Burkina Faso",
+    "value": "226",
+    "code": "BF",
+    "key": "BF",
+    "currency": "XOF"
+    },
+    {
+    "label": "Burundi (+257)",
+    "fullname": "Burundi",
+    "value": "257",
+    "code": "BI",
+    "key": "BI",
+    "currency": "BIF"
+    },
+    {
+    "label": "Cambodia (+855)",
+    "fullname": "Cambodia",
+    "value": "855",
+    "code": "KH",
+    "key": "KH",
+    "currency": "KHR"
+    },
+    {
+    "label": "Cameroon (+237)",
+    "fullname": "Cameroon",
+    "value": "237",
+    "code": "CM",
+    "key": "CM",
+    "currency": "XAF"
+    },
+    {
+    "label": "Canada (+1)",
+    "fullname": "Canada",
+    "value": "1",
+    "code": "CA",
+    "key": "CA",
+    "currency": "CAD"
+    },
+    {
+    "label": "Cape Verde (+238)",
+    "fullname": "Cape Verde",
+    "value": "238",
+    "code": "CV",
+    "key": "CV",
+    "currency": "CVE"
+    },
+    {
+    "label": "Cayman Islands ( 345)",
+    "fullname": "Cayman Islands",
+    "value": " 345",
+    "code": "KY",
+    "key": "KY",
+    "currency": "KYD"
+    },
+    {
+    "label": "Central African Republic (+236)",
+    "fullname": "Central African Republic",
+    "value": "236",
+    "code": "CF",
+    "key": "CF",
+    "currency": "XAF"
+    },
+    {
+    "label": "Chile (+56)",
+    "fullname": "Chile",
+    "value": "56",
+    "code": "CL",
+    "key": "CL",
+    "currency": "CLP"
+    },
+    {
+    "label": "China (+86)",
+    "fullname": "China",
+    "value": "86",
+    "code": "CN",
+    "key": "CN",
+    "currency": "CNY"
+    },
+    {
+    "label": "Christmas Island (+61)",
+    "fullname": "Christmas Island",
+    "value": "61",
+    "code": "CX",
+    "key": "CX",
+    "currency": "AUD"
+    },
+    {
+    "label": "Colombia (+57)",
+    "fullname": "Colombia",
+    "value": "57",
+    "code": "CO",
+    "key": "CO",
+    "currency": "COP"
+    },
+    {
+    "label": "Comoros (+269)",
+    "fullname": "Comoros",
+    "value": "269",
+    "code": "KM",
+    "key": "KM",
+    "currency": "KMF"
+    },
+    {
+    "label": "Cook Islands (+682)",
+    "fullname": "Cook Islands",
+    "value": "682",
+    "code": "CK",
+    "key": "CK",
+    "currency": "NZD"
+    },
+    {
+    "label": "Costa Rica (+506)",
+    "fullname": "Costa Rica",
+    "value": "506",
+    "code": "CR",
+    "key": "CR",
+    "currency": "CRC"
+    },
+    {
+    "label": "Croatia (+385)",
+    "fullname": "Croatia",
+    "value": "385",
+    "code": "HR",
+    "key": "HR",
+    "currency": "HRK"
+    },
+    {
+    "label": "Cyprus (+357)",
+    "fullname": "Cyprus",
+    "value": "357",
+    "code": "CY",
+    "key": "CY",
+    "currency": "EUR"
+    },
+    {
+    "label": "Denmark (+45)",
+    "fullname": "Denmark",
+    "value": "45",
+    "code": "DK",
+    "key": "DK",
+    "currency": "DKK"
+    },
+    {
+    "label": "Djibouti (+253)",
+    "fullname": "Djibouti",
+    "value": "253",
+    "code": "DJ",
+    "key": "DJ",
+    "currency": "DJF"
+    },
+    {
+    "label": "Dominica (+1767)",
+    "fullname": "Dominica",
+    "value": "1767",
+    "code": "DM",
+    "key": "DM",
+    "currency": "XCD"
+    },
+    {
+    "label": "Dominican Republic (+1849)",
+    "fullname": "Dominican Republic",
+    "value": "1849",
+    "code": "DO",
+    "key": "DO",
+    "currency": "DOP"
+    },
+    {
+    "label": "Ecuador (+593)",
+    "fullname": "Ecuador",
+    "value": "593",
+    "code": "EC",
+    "key": "EC",
+    "currency": "USD"
+    },
+    {
+    "label": "Egypt (+20)",
+    "fullname": "Egypt",
+    "value": "20",
+    "code": "EG",
+    "key": "EG",
+    "currency": "EGP"
+    },
+    {
+    "label": "El Salvador (+503)",
+    "fullname": "El Salvador",
+    "value": "503",
+    "code": "SV",
+    "key": "SV",
+    "currency": "USD"
+    },
+    {
+    "label": "Equatorial Guinea (+240)",
+    "fullname": "Equatorial Guinea",
+    "value": "240",
+    "code": "GQ",
+    "key": "GQ",
+    "currency": "XAF"
+    },
+    {
+    "label": "Eritrea (+291)",
+    "fullname": "Eritrea",
+    "value": "291",
+    "code": "ER",
+    "key": "ER",
+    "currency": "ERN"
+    },
+    {
+    "label": "Estonia (+372)",
+    "fullname": "Estonia",
+    "value": "372",
+    "code": "EE",
+    "key": "EE",
+    "currency": "EUR"
+    },
+    {
+    "label": "Ethiopia (+251)",
+    "fullname": "Ethiopia",
+    "value": "251",
+    "code": "ET",
+    "key": "ET",
+    "currency": "ETB"
+    },
+    {
+    "label": "Faroe Islands (+298)",
+    "fullname": "Faroe Islands",
+    "value": "298",
+    "code": "FO",
+    "key": "FO",
+    "currency": "DKK"
+    },
+    {
+    "label": "Finland (+358)",
+    "fullname": "Finland",
+    "value": "358",
+    "code": "FI",
+    "key": "FI",
+    "currency": "EUR"
+    },
+    {
+    "label": "France (+33)",
+    "fullname": "France",
+    "value": "33",
+    "code": "FR",
+    "key": "FR",
+    "currency": "EUR"
+    },
+    {
+    "label": "French Guiana (+594)",
+    "fullname": "French Guiana",
+    "value": "594",
+    "code": "GF",
+    "key": "GF",
+    "currency": "EUR"
+    },
+    {
+    "label": "French Polynesia (+689)",
+    "fullname": "French Polynesia",
+    "value": "689",
+    "code": "PF",
+    "key": "PF",
+    "currency": "XPF"
+    },
+    {
+    "label": "Gabon (+241)",
+    "fullname": "Gabon",
+    "value": "241",
+    "code": "GA",
+    "key": "GA",
+    "currency": "XAF"
+    },
+    {
+    "label": "Gambia (+220)",
+    "fullname": "Gambia",
+    "value": "220",
+    "code": "GM",
+    "key": "GM",
+    "currency": "GMD"
+    },
+    {
+    "label": "Georgia (+995)",
+    "fullname": "Georgia",
+    "value": "995",
+    "code": "GE",
+    "key": "GE",
+    "currency": "GEL"
+    },
+    {
+    "label": "Germany (+49)",
+    "fullname": "Germany",
+    "value": "49",
+    "code": "DE",
+    "key": "DE",
+    "currency": "EUR"
+    },
+    {
+    "label": "Ghana (+233)",
+    "fullname": "Ghana",
+    "value": "233",
+    "code": "GH",
+    "key": "GH",
+    "currency": "GHS"
+    },
+    {
+    "label": "Gibraltar (+350)",
+    "fullname": "Gibraltar",
+    "value": "350",
+    "code": "GI",
+    "key": "GI",
+    "currency": "GIP"
+    },
+    {
+    "label": "Greece (+30)",
+    "fullname": "Greece",
+    "value": "30",
+    "code": "GR",
+    "key": "GR",
+    "currency": "EUR"
+    },
+    {
+    "label": "Greenland (+299)",
+    "fullname": "Greenland",
+    "value": "299",
+    "code": "GL",
+    "key": "GL",
+    "currency": "DKK"
+    },
+    {
+    "label": "Grenada (+1473)",
+    "fullname": "Grenada",
+    "value": "1473",
+    "code": "GD",
+    "key": "GD",
+    "currency": "XCD"
+    },
+    {
+    "label": "Guadeloupe (+590)",
+    "fullname": "Guadeloupe",
+    "value": "590",
+    "code": "GP",
+    "key": "GP",
+    "currency": "EUR"
+    },
+    {
+    "label": "Guatemala (+502)",
+    "fullname": "Guatemala",
+    "value": "502",
+    "code": "GT",
+    "key": "GT",
+    "currency": "GTQ"
+    },
+    {
+    "label": "Guernsey (+44)",
+    "fullname": "Guernsey",
+    "value": "44",
+    "code": "GG",
+    "key": "GG",
+    "currency": "GBP"
+    },
+    {
+    "label": "Guinea (+224)",
+    "fullname": "Guinea",
+    "value": "224",
+    "code": "GN",
+    "key": "GN",
+    "currency": "GNF"
+    },
+    {
+    "label": "Guinea-Bissau (+245)",
+    "fullname": "Guinea-Bissau",
+    "value": "245",
+    "code": "GW",
+    "key": "GW",
+    "currency": "XOF"
+    },
+    {
+    "label": "Guyana (+595)",
+    "fullname": "Guyana",
+    "value": "595",
+    "code": "GY",
+    "key": "GY",
+    "currency": "GYD"
+    },
+    {
+    "label": "Haiti (+509)",
+    "fullname": "Haiti",
+    "value": "509",
+    "code": "HT",
+    "key": "HT",
+    "currency": "HTG"
+    },
+    {
+    "label": "Honduras (+504)",
+    "fullname": "Honduras",
+    "value": "504",
+    "code": "HN",
+    "key": "HN",
+    "currency": "HNL"
+    },
+    {
+    "label": "Hong Kong (+852)",
+    "fullname": "Hong Kong",
+    "value": "852",
+    "code": "HK",
+    "key": "HK",
+    "currency": "HKD"
+    },
+    {
+    "label": "Hungary (+36)",
+    "fullname": "Hungary",
+    "value": "36",
+    "code": "HU",
+    "key": "HU",
+    "currency": "HUF"
+    },
+    {
+    "label": "Iceland (+354)",
+    "fullname": "Iceland",
+    "value": "354",
+    "code": "IS",
+    "key": "IS",
+    "currency": "ISK"
+    },
+    {
+    "label": "India (+91)",
+    "fullname": "India",
+    "value": "91",
+    "code": "IN",
+    "key": "IN",
+    "currency": "INR"
+    },
+    {
+    "label": "Indonesia (+62)",
+    "fullname": "Indonesia",
+    "value": "62",
+    "code": "ID",
+    "key": "ID",
+    "currency": "IDR"
+    },
+    {
+    "label": "Ireland (+353)",
+    "fullname": "Ireland",
+    "value": "353",
+    "code": "IE",
+    "key": "IE",
+    "currency": "EUR"
+    },
+    {
+    "label": "Isle of Man (+44)",
+    "fullname": "Isle of Man",
+    "value": "44",
+    "code": "IM",
+    "key": "IM",
+    "currency": "GBP"
+    },
+    {
+    "label": "Israel (+972)",
+    "fullname": "Israel",
+    "value": "972",
+    "code": "IL",
+    "key": "IL",
+    "currency": "ILS"
+    },
+    {
+    "label": "Italy (+39)",
+    "fullname": "Italy",
+    "value": "39",
+    "code": "IT",
+    "key": "IT",
+    "currency": "EUR"
+    },
+    {
+    "label": "Jamaica (+1876)",
+    "fullname": "Jamaica",
+    "value": "1876",
+    "code": "JM",
+    "key": "JM",
+    "currency": "JMD"
+    },
+    {
+    "label": "Japan (+81)",
+    "fullname": "Japan",
+    "value": "81",
+    "code": "JP",
+    "key": "JP",
+    "currency": "JPY"
+    },
+    {
+    "label": "Jersey (+44)",
+    "fullname": "Jersey",
+    "value": "44",
+    "code": "JE",
+    "key": "JE",
+    "currency": "GBP"
+    },
+    {
+    "label": "Jordan (+962)",
+    "fullname": "Jordan",
+    "value": "962",
+    "code": "JO",
+    "key": "JO",
+    "currency": "JOD"
+    },
+    {
+    "label": "Kazakhstan (+77)",
+    "fullname": "Kazakhstan",
+    "value": "77",
+    "code": "KZ",
+    "key": "KZ",
+    "currency": "KZT"
+    },
+    {
+    "label": "Kenya (+254)",
+    "fullname": "Kenya",
+    "value": "254",
+    "code": "KE",
+    "key": "KE",
+    "currency": "KES"
+    },
+    {
+    "label": "Kiribati (+686)",
+    "fullname": "Kiribati",
+    "value": "686",
+    "code": "KI",
+    "key": "KI",
+    "currency": "AUD"
+    },
+    {
+    "label": "Kuwait (+965)",
+    "fullname": "Kuwait",
+    "value": "965",
+    "code": "KW",
+    "key": "KW",
+    "currency": "KWD"
+    },
+    {
+    "label": "Kyrgyzstan (+996)",
+    "fullname": "Kyrgyzstan",
+    "value": "996",
+    "code": "KG",
+    "key": "KG",
+    "currency": "KGS"
+    },
+    {
+    "label": "Latvia (+371)",
+    "fullname": "Latvia",
+    "value": "371",
+    "code": "LV",
+    "key": "LV",
+    "currency": "EUR"
+    },
+    {
+    "label": "Lebanon (+961)",
+    "fullname": "Lebanon",
+    "value": "961",
+    "code": "LB",
+    "key": "LB",
+    "currency": "LBP"
+    },
+    {
+    "label": "Lesotho (+266)",
+    "fullname": "Lesotho",
+    "value": "266",
+    "code": "LS",
+    "key": "LS",
+    "currency": "LSL"
+    },
+    {
+    "label": "Liberia (+231)",
+    "fullname": "Liberia",
+    "value": "231",
+    "code": "LR",
+    "key": "LR",
+    "currency": "LRD"
+    },
+    {
+    "label": "Liechtenstein (+423)",
+    "fullname": "Liechtenstein",
+    "value": "423",
+    "code": "LI",
+    "key": "LI",
+    "currency": "CHF"
+    },
+    {
+    "label": "Lithuania (+370)",
+    "fullname": "Lithuania",
+    "value": "370",
+    "code": "LT",
+    "key": "LT",
+    "currency": "EUR"
+    },
+    {
+    "label": "Luxembourg (+352)",
+    "fullname": "Luxembourg",
+    "value": "352",
+    "code": "LU",
+    "key": "LU",
+    "currency": "EUR"
+    },
+    {
+    "label": "Macao (+853)",
+    "fullname": "Macao",
+    "value": "853",
+    "code": "MO",
+    "key": "MO",
+    "currency": "MOP"
+    },
+    {
+    "label": "Macedonia (+389)",
+    "fullname": "Macedonia",
+    "value": "389",
+    "code": "MK",
+    "key": "MK",
+    "currency": "MKD"
+    },
+    {
+    "label": "Madagascar (+261)",
+    "fullname": "Madagascar",
+    "value": "261",
+    "code": "MG",
+    "key": "MG",
+    "currency": "MGA"
+    },
+    {
+    "label": "Malawi (+265)",
+    "fullname": "Malawi",
+    "value": "265",
+    "code": "MW",
+    "key": "MW",
+    "currency": "MWK"
+    },
+    {
+    "label": "Maldives (+960)",
+    "fullname": "Maldives",
+    "value": "960",
+    "code": "MV",
+    "key": "MV",
+    "currency": "MVR"
+    },
+    {
+    "label": "Malta (+356)",
+    "fullname": "Malta",
+    "value": "356",
+    "code": "MT",
+    "key": "MT",
+    "currency": "EUR"
+    },
+    {
+    "label": "Marshall Islands (+692)",
+    "fullname": "Marshall Islands",
+    "value": "692",
+    "code": "MH",
+    "key": "MH",
+    "currency": "USD"
+    },
+    {
+    "label": "Martinique (+596)",
+    "fullname": "Martinique",
+    "value": "596",
+    "code": "MQ",
+    "key": "MQ",
+    "currency": "EUR"
+    },
+    {
+    "label": "Mauritania (+222)",
+    "fullname": "Mauritania",
+    "value": "222",
+    "code": "MR",
+    "key": "MR",
+    "currency": "MRO"
+    },
+    {
+    "label": "Mauritius (+230)",
+    "fullname": "Mauritius",
+    "value": "230",
+    "code": "MU",
+    "key": "MU",
+    "currency": "MUR"
+    },
+    {
+    "label": "Mayotte (+262)",
+    "fullname": "Mayotte",
+    "value": "262",
+    "code": "YT",
+    "key": "YT",
+    "currency": "EUR"
+    },
+    {
+    "label": "Mexico (+52)",
+    "fullname": "Mexico",
+    "value": "52",
+    "code": "MX",
+    "key": "MX",
+    "currency": "MXN"
+    },
+    {
+    "label": "Moldova (+373)",
+    "fullname": "Moldova",
+    "value": "373",
+    "code": "MD",
+    "key": "MD",
+    "currency": "MDL"
+    },
+    {
+    "label": "Monaco (+377)",
+    "fullname": "Monaco",
+    "value": "377",
+    "code": "MC",
+    "key": "MC",
+    "currency": "EUR"
+    },
+    {
+    "label": "Mongolia (+976)",
+    "fullname": "Mongolia",
+    "value": "976",
+    "code": "MN",
+    "key": "MN",
+    "currency": "MNT"
+    },
+    {
+    "label": "Montenegro (+382)",
+    "fullname": "Montenegro",
+    "value": "382",
+    "code": "ME",
+    "key": "ME",
+    "currency": "EUR"
+    },
+    {
+    "label": "Montserrat (+1664)",
+    "fullname": "Montserrat",
+    "value": "1664",
+    "code": "MS",
+    "key": "MS",
+    "currency": "XCD"
+    },
+    {
+    "label": "Morocco (+212)",
+    "fullname": "Morocco",
+    "value": "212",
+    "code": "MA",
+    "key": "MA",
+    "currency": "MAD"
+    },
+    {
+    "label": "Mozambique (+258)",
+    "fullname": "Mozambique",
+    "value": "258",
+    "code": "MZ",
+    "key": "MZ",
+    "currency": "MZN"
+    },
+    {
+    "label": "Namibia (+264)",
+    "fullname": "Namibia",
+    "value": "264",
+    "code": "NA",
+    "key": "NA",
+    "currency": "NAD"
+    },
+    {
+    "label": "Nauru (+674)",
+    "fullname": "Nauru",
+    "value": "674",
+    "code": "NR",
+    "key": "NR",
+    "currency": "AUD"
+    },
+    {
+    "label": "Nepal (+977)",
+    "fullname": "Nepal",
+    "value": "977",
+    "code": "NP",
+    "key": "NP",
+    "currency": "NPR"
+    },
+    {
+    "label": "Netherlands (+31)",
+    "fullname": "Netherlands",
+    "value": "31",
+    "code": "NL",
+    "key": "NL",
+    "currency": "EUR"
+    },
+    {
+    "label": "New Caledonia (+687)",
+    "fullname": "New Caledonia",
+    "value": "687",
+    "code": "NC",
+    "key": "NC",
+    "currency": "XPF"
+    },
+    {
+    "label": "New Zealand (+64)",
+    "fullname": "New Zealand",
+    "value": "64",
+    "code": "NZ",
+    "key": "NZ",
+    "currency": "NZD"
+    },
+    {
+    "label": "Nicaragua (+505)",
+    "fullname": "Nicaragua",
+    "value": "505",
+    "code": "NI",
+    "key": "NI",
+    "currency": "NIO"
+    },
+    {
+    "label": "Niger (+227)",
+    "fullname": "Niger",
+    "value": "227",
+    "code": "NE",
+    "key": "NE",
+    "currency": "XOF"
+    },
+    {
+    "label": "Nigeria (+234)",
+    "fullname": "Nigeria",
+    "value": "234",
+    "code": "NG",
+    "key": "NG",
+    "currency": "NGN"
+    },
+    {
+    "label": "Norfolk Island (+672)",
+    "fullname": "Norfolk Island",
+    "value": "672",
+    "code": "NF",
+    "key": "NF",
+    "currency": "AUD"
+    },
+    {
+    "label": "Northern Mariana Islands (+1670)",
+    "fullname": "Northern Mariana Islands",
+    "value": "1670",
+    "code": "MP",
+    "key": "MP",
+    "currency": "USD"
+    },
+    {
+    "label": "Norway (+47)",
+    "fullname": "Norway",
+    "value": "47",
+    "code": "NO",
+    "key": "NO",
+    "currency": "NOK"
+    },
+    {
+    "label": "Pakistan (+92)",
+    "fullname": "Pakistan",
+    "value": "92",
+    "code": "PK",
+    "key": "PK",
+    "currency": "PKR"
+    },
+    {
+    "label": "Palau (+680)",
+    "fullname": "Palau",
+    "value": "680",
+    "code": "PW",
+    "key": "PW",
+    "currency": "USD"
+    },
+    {
+    "label": "Panama (+507)",
+    "fullname": "Panama",
+    "value": "507",
+    "code": "PA",
+    "key": "PA",
+    "currency": "PAB"
+    },
+    {
+    "label": "Papua New Guinea (+675)",
+    "fullname": "Papua New Guinea",
+    "value": "675",
+    "code": "PG",
+    "key": "PG",
+    "currency": "PGK"
+    },
+    {
+    "label": "Paraguay (+595)",
+    "fullname": "Paraguay",
+    "value": "595",
+    "code": "PY",
+    "key": "PY",
+    "currency": "PYG"
+    },
+    {
+    "label": "Philippines (+63)",
+    "fullname": "Philippines",
+    "value": "63",
+    "code": "PH",
+    "key": "PH",
+    "currency": "PHP"
+    },
+    {
+    "label": "Poland (+48)",
+    "fullname": "Poland",
+    "value": "48",
+    "code": "PL",
+    "key": "PL",
+    "currency": "PLN"
+    },
+    {
+    "label": "Portugal (+351)",
+    "fullname": "Portugal",
+    "value": "351",
+    "code": "PT",
+    "key": "PT",
+    "currency": "EUR"
+    },
+    {
+    "label": "Puerto Rico (+1939)",
+    "fullname": "Puerto Rico",
+    "value": "1939",
+    "code": "PR",
+    "key": "PR",
+    "currency": "USD"
+    },
+    {
+    "label": "Qatar (+974)",
+    "fullname": "Qatar",
+    "value": "974",
+    "code": "QA",
+    "key": "QA",
+    "currency": "QAR"
+    },
+    {
+    "label": "Romania (+40)",
+    "fullname": "Romania",
+    "value": "40",
+    "code": "RO",
+    "key": "RO",
+    "currency": "RON"
+    },
+    {
+    "label": "Russia (+7)",
+    "fullname": "Russia",
+    "value": "7",
+    "code": "RU",
+    "key": "RU",
+    "currency": "RUB"
+    },
+    {
+    "label": "Rwanda (+250)",
+    "fullname": "Rwanda",
+    "value": "250",
+    "code": "RW",
+    "key": "RW",
+    "currency": "RWF"
+    },
+    {
+    "label": "Saint Kitts and Nevis (+1869)",
+    "fullname": "Saint Kitts and Nevis",
+    "value": "1869",
+    "code": "KN",
+    "key": "KN",
+    "currency": "XCD"
+    },
+    {
+    "label": "Saint Lucia (+1758)",
+    "fullname": "Saint Lucia",
+    "value": "1758",
+    "code": "LC",
+    "key": "LC",
+    "currency": "XCD"
+    },
+    {
+    "label": "Saint Martin (+590)",
+    "fullname": "Saint Martin",
+    "value": "590",
+    "code": "MF",
+    "key": "MF",
+    "currency": "EUR"
+    },
+    {
+    "label": "Saint Pierre and Miquelon (+508)",
+    "fullname": "Saint Pierre and Miquelon",
+    "value": "508",
+    "code": "PM",
+    "key": "PM",
+    "currency": "EUR"
+    },
+    {
+    "label": "Saint Vincent and the Grenadines (+1784)",
+    "fullname": "Saint Vincent and the Grenadines",
+    "value": "1784",
+    "code": "VC",
+    "key": "VC",
+    "currency": "XCD"
+    },
+    {
+    "label": "Samoa (+685)",
+    "fullname": "Samoa",
+    "value": "685",
+    "code": "WS",
+    "key": "WS",
+    "currency": "WST"
+    },
+    {
+    "label": "San Marino (+378)",
+    "fullname": "San Marino",
+    "value": "378",
+    "code": "SM",
+    "key": "SM",
+    "currency": "EUR"
+    },
+    {
+    "label": "Saudi Arabia (+966)",
+    "fullname": "Saudi Arabia",
+    "value": "966",
+    "code": "SA",
+    "key": "SA",
+    "currency": "SAR"
+    },
+    {
+    "label": "Senegal (+221)",
+    "fullname": "Senegal",
+    "value": "221",
+    "code": "SN",
+    "key": "SN",
+    "currency": "XOF"
+    },
+    {
+    "label": "Serbia (+381)",
+    "fullname": "Serbia",
+    "value": "381",
+    "code": "RS",
+    "key": "RS",
+    "currency": "RSD"
+    },
+    {
+    "label": "Seychelles (+248)",
+    "fullname": "Seychelles",
+    "value": "248",
+    "code": "SC",
+    "key": "SC",
+    "currency": "SCR"
+    },
+    {
+    "label": "Sierra Leone (+232)",
+    "fullname": "Sierra Leone",
+    "value": "232",
+    "code": "SL",
+    "key": "SL",
+    "currency": "SLL"
+    },
+    {
+    "label": "Singapore (+65)",
+    "fullname": "Singapore",
+    "value": "65",
+    "code": "SG",
+    "key": "SG",
+    "currency": "SGD"
+    },
+    {
+    "label": "Slovakia (+421)",
+    "fullname": "Slovakia",
+    "value": "421",
+    "code": "SK",
+    "key": "SK",
+    "currency": "EUR"
+    },
+    {
+    "label": "Slovenia (+386)",
+    "fullname": "Slovenia",
+    "value": "386",
+    "code": "SI",
+    "key": "SI",
+    "currency": "EUR"
+    },
+    {
+    "label": "Solomon Islands (+677)",
+    "fullname": "Solomon Islands",
+    "value": "677",
+    "code": "SB",
+    "key": "SB",
+    "currency": "SBD"
+    },
+    {
+    "label": "Somalia (+252)",
+    "fullname": "Somalia",
+    "value": "252",
+    "code": "SO",
+    "key": "SO",
+    "currency": "SOS"
+    },
+    {
+    "label": "South Africa (+27)",
+    "fullname": "South Africa",
+    "value": "27",
+    "code": "ZA",
+    "key": "ZA",
+    "currency": "ZAR"
+    },
+    {
+    "label": "South Sudan (+211)",
+    "fullname": "South Sudan",
+    "value": "211",
+    "code": "SS",
+    "key": "SS",
+    "currency": "SSP"
+    },
+    {
+    "label": "South Georgia and the South Sandwich Islands (+500)",
+    "fullname": "South Georgia and the South Sandwich Islands",
+    "value": "500",
+    "code": "GS",
+    "key": "GS",
+    "currency": "GBP"
+    },
+    {
+    "label": "Spain (+34)",
+    "fullname": "Spain",
+    "value": "34",
+    "code": "ES",
+    "key": "ES",
+    "currency": "EUR"
+    },
+    {
+    "label": "Sri Lanka (+94)",
+    "fullname": "Sri Lanka",
+    "value": "94",
+    "code": "LK",
+    "key": "LK",
+    "currency": "LKR"
+    },
+    {
+    "label": "Sudan (+249)",
+    "fullname": "Sudan",
+    "value": "249",
+    "code": "SD",
+    "key": "SD",
+    "currency": "SDG"
+    },
+    {
+    "label": "Suriname (+597)",
+    "fullname": "Suriname",
+    "value": "597",
+    "code": "SR",
+    "key": "SR",
+    "currency": "SRD"
+    },
+    {
+    "label": "Svalbard and Jan Mayen (+47)",
+    "fullname": "Svalbard and Jan Mayen",
+    "value": "47",
+    "code": "SJ",
+    "key": "SJ",
+    "currency": "NOK"
+    },
+    {
+    "label": "Swaziland (+268)",
+    "fullname": "Swaziland",
+    "value": "268",
+    "code": "SZ",
+    "key": "SZ",
+    "currency": "SZL"
+    },
+    {
+    "label": "Sweden (+46)",
+    "fullname": "Sweden",
+    "value": "46",
+    "code": "SE",
+    "key": "SE",
+    "currency": "SEK"
+    },
+    {
+    "label": "Switzerland (+41)",
+    "fullname": "Switzerland",
+    "value": "41",
+    "code": "CH",
+    "key": "CH",
+    "currency": "CHF"
+    },
+    {
+    "label": "Taiwan (+886)",
+    "fullname": "Taiwan",
+    "value": "886",
+    "code": "TW",
+    "key": "TW",
+    "currency": "TWD"
+    },
+    {
+    "label": "Tajikistan (+992)",
+    "fullname": "Tajikistan",
+    "value": "992",
+    "code": "TJ",
+    "key": "TJ",
+    "currency": "TJS"
+    },
+    {
+    "label": "Thailand (+66)",
+    "fullname": "Thailand",
+    "value": "66",
+    "code": "TH",
+    "key": "TH",
+    "currency": "THB"
+    },
+    {
+    "label": "Tokelau (+690)",
+    "fullname": "Tokelau",
+    "value": "690",
+    "code": "TK",
+    "key": "TK",
+    "currency": "NZD"
+    },
+    {
+    "label": "Tonga (+676)",
+    "fullname": "Tonga",
+    "value": "676",
+    "code": "TO",
+    "key": "TO",
+    "currency": "TOP"
+    },
+    {
+    "label": "Trinidad and Tobago (+1868)",
+    "fullname": "Trinidad and Tobago",
+    "value": "1868",
+    "code": "TT",
+    "key": "TT",
+    "currency": "TTD"
+    },
+    {
+    "label": "Tunisia (+216)",
+    "fullname": "Tunisia",
+    "value": "216",
+    "code": "TN",
+    "key": "TN",
+    "currency": "TND"
+    },
+    {
+    "label": "Turkey (+90)",
+    "fullname": "Turkey",
+    "value": "90",
+    "code": "TR",
+    "key": "TR",
+    "currency": "TRY"
+    },
+    {
+    "label": "Turkmenistan (+993)",
+    "fullname": "Turkmenistan",
+    "value": "993",
+    "code": "TM",
+    "key": "TM",
+    "currency": "TMT"
+    },
+    {
+    "label": "Turks and Caicos Islands (+1649)",
+    "fullname": "Turks and Caicos Islands",
+    "value": "1649",
+    "code": "TC",
+    "key": "TC",
+    "currency": "USD"
+    },
+    {
+    "label": "Tuvalu (+688)",
+    "fullname": "Tuvalu",
+    "value": "688",
+    "code": "TV",
+    "key": "TV",
+    "currency": "AUD"
+    },
+    {
+    "label": "Uganda (+256)",
+    "fullname": "Uganda",
+    "value": "256",
+    "code": "UG",
+    "key": "UG",
+    "currency": "UGX"
+    },
+    {
+    "label": "Ukraine (+380)",
+    "fullname": "Ukraine",
+    "value": "380",
+    "code": "UA",
+    "key": "UA",
+    "currency": "UAH"
+    },
+    {
+    "label": "United Arab Emirates (+971)",
+    "fullname": "United Arab Emirates",
+    "value": "971",
+    "code": "AE",
+    "key": "AE",
+    "currency": "AED"
+    },
+    {
+    "label": "United Kingdom (+44)",
+    "fullname": "United Kingdom",
+    "value": "44",
+    "code": "GB",
+    "key": "GB",
+    "currency": "GBP"
+    },
+    {
+    "label": "United States (+1)",
+    "fullname": "United States",
+    "value": "1",
+    "code": "US",
+    "key": "US",
+    "currency": "USD"
+    },
+    {
+    "label": "Uruguay (+598)",
+    "fullname": "Uruguay",
+    "value": "598",
+    "code": "UY",
+    "key": "UY",
+    "currency": "UYU"
+    },
+    {
+    "label": "Uzbekistan (+998)",
+    "fullname": "Uzbekistan",
+    "value": "998",
+    "code": "UZ",
+    "key": "UZ",
+    "currency": "UZS"
+    },
+    {
+    "label": "Vanuatu (+678)",
+    "fullname": "Vanuatu",
+    "value": "678",
+    "code": "VU",
+    "key": "VU",
+    "currency": "VUV"
+    },
+    {
+    "label": "Vietnam (+84)",
+    "fullname": "Vietnam",
+    "value": "84",
+    "code": "VN",
+    "key": "VN",
+    "currency": "VND"
+    },
+    {
+    "label": "Wallis and Futuna (+681)",
+    "fullname": "Wallis and Futuna",
+    "value": "681",
+    "code": "WF",
+    "key": "WF",
+    "currency": "XPF"
+    },
+    {
+    "label": "Yemen (+967)",
+    "fullname": "Yemen",
+    "value": "967",
+    "code": "YE",
+    "key": "YE",
+    "currency": "YER"
+    },
+    {
+    "label": "Zambia (+260)",
+    "fullname": "Zambia",
+    "value": "260",
+    "code": "ZM",
+    "key": "ZM",
+    "currency": "ZMW"
+    },
+    {
+    "label": "Zimbabwe (+263)",
+    "fullname": "Zimbabwe",
+    "value": "263",
+    "code": "ZW",
+    "key": "ZW",
+    "currency": "ZWL"
+    }
+    ]
