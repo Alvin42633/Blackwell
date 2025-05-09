@@ -31,7 +31,7 @@ export const POST = async (request) => {
 			email,
 			mobileno,
 			country,
-			password: hashPassword(password),
+			password: await hashPassword(password),
 		};
 
 		return Response.json({

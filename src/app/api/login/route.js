@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { hashPassword, verifyPassword } from '@/common/password';
+import { verifyPassword } from '@/common/password';
 const users = require('../../../store/user');
 
 export const POST = async (request) => {
@@ -9,7 +9,7 @@ export const POST = async (request) => {
 	if (!email || !password) {
 		return Response.json({ error: 'All fields required' }, { status: 400 });
 	}
-	let user = await _.find(users.users, (u) => u.email == email);
+	let user = _.find(users.users, (u) => u.email == email);
 	if (!user) {
 		return Response.json(
 			{

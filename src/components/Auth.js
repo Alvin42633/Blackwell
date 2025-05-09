@@ -8,10 +8,10 @@ import '@/styles/global.scss';
 import RegisterLink from './RegisterLink';
 import Link from 'next/link';
 
-const Auth = ({ children }) => {
+const Auth = () => {
 	const user = useSelector((state) => state.user.user);
 	const dispatch = useDispatch();
-
+	console.log('user', user);
 	const logout = () => {
 		dispatch(logoutUser());
 	};

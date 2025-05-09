@@ -48,6 +48,7 @@ const EnquireNow = () => {
 		} else {
 			setErrors({});
 			alert('Thanks for sharing your message to us!');
+			// send email function will need email and password, need open 2 factor auth first
 			setFormData({
 				name: '',
 				email: '',

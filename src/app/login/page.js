@@ -78,14 +78,12 @@ const LoginPage = () => {
 			});
 
 			const data = await res.json();
-			console.log(data);
 			setLoading(false);
 			if (res.ok) {
 				setMessage('Login Successful! Will redirect you in seconds');
 				setOpenMessage(true);
-				// add notification
 				setErrors({});
-				let user = formData;
+				let user = data.user;
 				dispatch(updateUser(user));
 				setFormData(initFormData);
 				setTimeout(() => router.push('/'), 3000);

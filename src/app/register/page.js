@@ -94,16 +94,16 @@ const RegisterPage = () => {
 
 			const data = await res.json();
 			setLoading(false);
-			console.log('check res', res);
 			if (res.ok) {
-				setMessage('Registration Successful');
+				setMessage(
+					'Registration Successful! Will redirect you in seconds...',
+				);
 				setOpenMessage(true);
-				// add notification
 				setErrors({});
-				let user = formData;
+				let user = data.user;
 				dispatch(updateUser(user));
-				router.push('/');
 				setFormData(initFormData);
+				setTimeout(() => router.push('/'), 3000);
 			} else {
 				setMessage(
 					'Registration Failed! Please contact with our customer support',
@@ -113,7 +113,7 @@ const RegisterPage = () => {
 		} catch (error) {
 			// save error
 			setMessage(
-				'Registration Failed! Please contact with our customer support',
+				'Registration Error! Please contact with our customer support',
 			);
 			setOpenMessage(true);
 			setLoading(false);
